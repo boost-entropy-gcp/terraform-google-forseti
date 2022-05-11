@@ -1,6 +1,6 @@
 version: "1"
 rules:
   - base: master
-    upstream: null:master
+    upstream: forseti-security:master
     mergeMethod: merge
     mergeUnstable: true
